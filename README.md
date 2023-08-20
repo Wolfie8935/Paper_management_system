@@ -47,3 +47,9 @@ Open a pull request detailing your changes and their benefits.
 This project is licensed under the MIT License.
 
 We hope you find the Paper Management System Website valuable for your organization's needs. If you have any questions, feedback, or suggestions, please feel free to contact Aman (wolfie8935), Ayushi (humblefoo02), or open an issue in this repository. Thank you for checking out our project!
+
+
+<h2>Collaborators</h2>
+<a href="https://github.com/wolfie8935/Paper_waste_management_system/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wolfie8935/Paper_waste_management_system" />
+</a>
